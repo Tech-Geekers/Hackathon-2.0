@@ -3,9 +3,6 @@
  
  ## Team Leader : Deepak Kumar
  
- # Details of Team Members #
- 
- ## Team Leader
  
 # 1.  Deepak Kumar
 - E-mail : dk9988570526@gmail.com
