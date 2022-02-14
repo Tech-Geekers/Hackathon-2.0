@@ -29,5 +29,5 @@
 - E-mail : googlydhiman.4236@gmail.com
 - Branch : Information Technology
 - CRN/URN : 1921116/1905415
-- Area of Interest : Android development
-- Link of Git Repository : https://github.com/THINKandroid01
+- Area of Interest : Android development , BLockChain , Web Application .
+- Link of Git Repository : https://github.com/DHIMANvivek
